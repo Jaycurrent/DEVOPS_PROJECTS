@@ -58,55 +58,131 @@ This command is used to move files or directories from one location to another. 
 
 # mkdir command
 
+`mkdir`
+
+To create directories
+
+![Alt text](<images/mkdir command.png>)
+
 # rmdir command
+
+To remove directories
+
+![Alt text](<images/rmdir_rm command.png>)
 
 # rm command
 
+Command to remove files
+
+![Alt text](<images/rm_options command.png>)
+
+
 # touch command
+
+The touch command is used to crreate a text file
+
+![Alt text](<images/touch command.png>)
+
+
 
 # locate command
 
+![Alt text](<images/locate command.png>)
+
 # find command
+
+![Alt text](<images/find command.png>)
 
 # grep command
 
+![Alt text](<images/grep command.png>)
+
 # df command
+
+![Alt text](<images/df command.png>)
 
 # du command
 
+![Alt text](<images/du command.png>)
+
 # head command
+
+![Alt text](<images/head command.png>)
 
 # tail command
 
+![Alt text](<images/tail command.png>)
+
 # diff command
+
+![Alt text](<images/diff command.png>)
 
 # tar command
 
+![Alt text](<images/tar command.png>)
+
 # FILE PERMISSIONS AND OWNERSHIP
+
 
 # chmod command
 
+![Alt text](<images/chmod command.png>)
+
 # chown command
+
+![Alt text](<images/chown command.png>)
 
 # jobs command
 
+![Alt text](<images/jobs command.png>)
+
 # kill command
+
+![Alt text](<images/kill command.png>)
 
 # ping command
 
+![Alt text](<images/ping command.png>)
+
+
 # wget command
+
+![Alt text](<images/wget comand.png>)
 
 # uname command
 
+![Alt text](<images/uname command.png>)
+
+
 # top command
+
+![Alt text](<images/top command.png>)
 
 # history command
 
+![Alt text](<images/history command.png>)
+
 # man command
+
+![Alt text](<images/man command.png>)
 
 # echo command
 
+![Alt text](<images/echo command.png>)
+
 # zip, unzip commands
+
+`zip`
+
+This command is used to compress files
+
+![Alt text](<images/zip command.png>)
+
+`unzip`
+
+This is used to unzip
+
+![Alt text](<images/zip_unzip command.png>)
 
 # hostname command
 

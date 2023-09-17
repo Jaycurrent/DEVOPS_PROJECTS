@@ -186,16 +186,35 @@ This is used to unzip
 
 # hostname command
 
+![Alt text](<images/hostname command.png>)
+
 # useradd, userdel commands
+
+![Alt text](<images/add user+directory command.png>)
 
 # apt-get command
 
+![Alt text](<images/apt-get command.png>)
+
 # nano, vi, jed commands
+
+![Alt text](<images/nano command.png>)
 
 # alias, unalias commands
 
+![Alt text](<images/álias command.png>)
+
 # su command
+
+![Alt text](<images/su command.png>)
 
 # htop command
 
+![Alt text](<images/htop command.png>)
+
 # ps command
+
+![Alt text](<images/ps command.png>)
+
+
+# END OF PROJECT 1

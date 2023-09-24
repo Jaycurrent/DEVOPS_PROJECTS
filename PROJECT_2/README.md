@@ -53,4 +53,30 @@ use the `git branch -d "name of branch"` command to achieve this.
 
 ![Alt text](<images/Deleting Branch.png>)
 
+# COLLABORATION and REMOTE REPOSITORIES
+
+Making your local repository available online on Github Repository  (which is a remote repository , to encourage collaboration) through Git
+
+## create Remote Repository on GITHUB
+
+![Alt text](<images/Create Remote Repository.png>)
+
+## linking the local repository with the Remote repository
+
+This is done by running the command `git remote add origin 'url of your remote repository'` on git
+
+![Alt text](<images/Sync Remote Repo with Local Repo.png>)
+
+### Next is to push the content of the local repo to the remote repo
+
+This is done using the command `git push origin "branch name"`
+
+![Alt text](<images/push Local Repo to Remote Repo.png>)
+
+
+# CLONING REMOTE Git REPOSITORY
+
+To download a copy of a remote repository locally to your system, you can use the command `git clone "link to your remote repo"`
+
+![Alt text](<images/Cloning Remote Git Repo to Local PC.png>)
 

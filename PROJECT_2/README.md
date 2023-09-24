@@ -37,4 +37,12 @@ You can switch between branches by using the command `git switch "name of branch
 
 # MERGING BRANCH
 
+After edits have been made on the new branch, it can be merged with the main branch using the `git merge "branch name"` command.
+
+Here a new branch "modification1"was created and the txt file was edited.
+After we go back into the main branch to merge the txt file in the "modification1 branch" into the txt file in the "main branch".
+
+![Alt text](<images/Merging branches.png>)
+
+
 # DELETE BRANCH

@@ -46,3 +46,11 @@ After we go back into the main branch to merge the txt file in the "modification
 
 
 # DELETE BRANCH
+
+After merging the new branch with the existing one , you can decide to delete the new branch.
+
+use the `git branch -d "name of branch"` command to achieve this.
+
+![Alt text](<images/Deleting Branch.png>)
+
+

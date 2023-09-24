@@ -80,3 +80,55 @@ To download a copy of a remote repository locally to your system, you can use th
 
 ![Alt text](<images/Cloning Remote Git Repo to Local PC.png>)
 
+# BRANCH MANAGEMENT AND TAGGING
+
+Headings : Add #, ##, ###  before the word "DEVOPS" . The result are displayed below respectively. 
+
+Heading: #
+# DEVOPS
+Heading ##
+## DEVOPS
+Heading ###
+### DEVOPS
+
+# Emphasis
+
+For empasizing a text use * or _ to open and close the word.
+The result are displayed below respectively.
+
+*This word is emphasized with asteriks*,
+
+ _While this is emphasized with underscore_ 
+
+ # LISTS
+
+ unordered list
+
+- Book
+- Book2
+- Book3
+
+ordered list
+
+1. Book
+2. Book2
+3. Book3
+
+# HYPERLINK
+
+
+[visit google](https://www.google.com)
+
+
+# DISPLAY IMAGE
+
+![Babajide](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLionel_Messi&psig=AOvVaw2uuftp-pE6107nwRr8ANM4&ust=1695649353812000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCspZ6ww4EDFQAAAAAdAAAAABAE)
+
+
+
+
+
+
+
+
+

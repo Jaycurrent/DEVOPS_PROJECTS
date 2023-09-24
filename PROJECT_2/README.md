@@ -30,6 +30,11 @@ You can use the `git branch` command to list all the branches
 
 # SWITCH BRANCH
 
+You can switch between branches by using the command `git switch "name of branch"` or by using `git checkout "name of branch"`
+
+![Alt text](<images/Swiching branch using_git checkout command.png>)
+
+
 # MERGING BRANCH
 
 # DELETE BRANCH

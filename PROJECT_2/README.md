@@ -122,7 +122,7 @@ ordered list
 
 # DISPLAY IMAGE
 
-![Babajide](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLionel_Messi&psig=AOvVaw2uuftp-pE6107nwRr8ANM4&ust=1695649353812000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCspZ6ww4EDFQAAAAAdAAAAABAE)
+![Babajide](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg)
 
 
 

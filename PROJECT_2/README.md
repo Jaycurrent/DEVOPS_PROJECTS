@@ -124,6 +124,12 @@ ordered list
 
 ![Babajide](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg)
 
+# To Display Code
+
+enclose the word with backtick key
+
+`mkdir` 
+
 
 
 

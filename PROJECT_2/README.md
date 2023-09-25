@@ -55,6 +55,8 @@ use the `git branch -d "name of branch"` command to achieve this.
 
 # COLLABORATION and REMOTE REPOSITORIES
 
+### Having opened and setting up a Github account already, next step is
+
 Making your local repository available online on Github Repository  (which is a remote repository , to encourage collaboration) through Git
 
 ## create Remote Repository on GITHUB
